@@ -12,3 +12,7 @@ https://github.com/Ftamino/dotfiles-polybar/tree/main/config/neofetch
 # Firefox
 Firefox Custom:
 https://github.com/mut-ex/minimal-functional-fox
+
+# Wallpaper
+Most wallpapers found here:
+https://gruvbox-wallpapers.pages.dev/
